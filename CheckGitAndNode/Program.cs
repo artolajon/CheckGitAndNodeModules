@@ -41,6 +41,7 @@ foreach (string dir in withNodeModules)
     Console.WriteLine($"-> {dir}");
 }
 
+Console.ReadLine();
 
 
 
